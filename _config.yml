@@ -30,6 +30,7 @@ slack_url:
 twitter_url: https://twitter.com/KshitizKhandel5
 
 # build settings
+remote_theme: andrewbanchich/forty-jekyll-theme
 markdown: kramdown
 
 sass:
