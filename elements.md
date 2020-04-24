@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Elements
+layout: landing
+title: About Me
+description: 'A sneak peek into my life'
+image: assets/images/trophy.jpg
 nav-menu: true
 ---
 
@@ -11,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1></h1>
 		</header>
 
 <!-- Content -->
