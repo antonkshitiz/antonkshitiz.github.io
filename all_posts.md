@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Special Insights
+title: Insights
 landing-title: 'All posts'
 nav-menu: true
 description: Things I would like you to know
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>Special Insights</h1>
+<h1>Insights</h1>
