@@ -14,7 +14,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://medium.com/mudrex/supertrend-trading-strategy-with-linear-regression-e27cfbacea45" class="image">
 			<img src="{% link assets/images/supertrend.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -30,7 +30,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://medium.com/mudrex/bollinger-band-and-keltner-channel-trading-strategy-4772f47f06d7" class="image">
 			<img src="{% link assets/images/bbkc.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -46,7 +46,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://medium.com/mudrex/macd-and-stochastic-trading-strategy-87a08b14e2d" class="image">
 			<img src="{% link assets/images/macd.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -62,7 +62,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://medium.com/mudrex/cci-multiple-time-frames-trading-strategy-d8463373c44e" class="image">
 			<img src="{% link assets/images/cci.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -78,7 +78,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://medium.com/mudrex/rsi-trading-strategy-with-20-sma-on-mudrex-a26bd2ac039b" class="image">
 			<img src="{% link assets/images/rsi.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
