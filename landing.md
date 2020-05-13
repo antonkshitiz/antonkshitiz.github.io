@@ -15,6 +15,38 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/supertrend.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The SuperTrend Trading Strategy</h3>
+				</header>
+				<p>The SuperTrend indicator is simply one of the easiest trend trading system. It was developed by Olivier Seban and as the name suggests, it is a trend following indicator. We will make use of the concept of market cycles with Linear Regression to confirm a trending market first and then use SuperTrend to generate buy/sell signals</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/supertrend-trading-strategy-with-linear-regression-e27cfbacea45" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/bbkc.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Volatility Channels Trading Strategy</h3>
+				</header>
+				<p>Volatility Channels are a type of indicator that plot volatility-related lines above and below the market. These lines are variously known as channels, envelopes, or bands. They widen as volatility increases, and narrow as volatility decreases. We’ll be using a very effective method of detecting a change in the volatility of the market using the squeeze of Bollinger Bands and Keltner Channels.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/bollinger-band-and-keltner-channel-trading-strategy-4772f47f06d7" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/macd.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
