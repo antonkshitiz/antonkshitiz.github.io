@@ -14,6 +14,22 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://medium.com/mudrex/adx-trading-strategy-22cc1b53f93b" class="image">
+			<img src="{% link assets/images/adx.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Directional Movement Trading System</h3>
+				</header>
+				<p>The Average Directional Index ( ADX), Minus Directional Movement Indicator (-DMI) and Plus Directional Movement Indicator (+DMI) represent a group of directional movement indicators that form a trading system developed by Welles Wilder called the Directional Movement System.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/adx-trading-strategy-22cc1b53f93b5" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://medium.com/mudrex/supertrend-trading-strategy-with-linear-regression-e27cfbacea45" class="image">
 			<img src="{% link assets/images/supertrend.png %}" alt="" data-position="center center" />
 		</a>
