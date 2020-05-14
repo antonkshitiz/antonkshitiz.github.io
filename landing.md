@@ -22,7 +22,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The Directional Movement Trading System</h3>
 				</header>
-				<p>The Average Directional Index ( ADX), Minus Directional Movement Indicator (-DMI) and Plus Directional Movement Indicator (+DMI) represent a group of directional movement indicators that form a trading system developed by Welles Wilder called the Directional Movement System.</p>
+				<p>Detecting a strong directional move is the most important skill for all traders to have. Trend chasing is the most popular technical method of profitable trading. The Average Directional Index ( ADX), Minus Directional Movement Indicator (-DMI) and Plus Directional Movement Indicator (+DMI) represent a group of directional movement indicators that form a trading system developed by Welles Wilder called the Directional Movement System.</p>
 				<ul class="actions">
 					<li><a href="https://medium.com/mudrex/adx-trading-strategy-22cc1b53f93b5" class="button">Medium Blog</a></li>
 				</ul>
