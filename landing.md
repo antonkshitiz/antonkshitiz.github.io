@@ -1,7 +1,7 @@
 ---
 title: Blogs
 layout: landing
-description: 'A repository of my personal and professional interests'
+description: 'To short, or not to short, that is the question'
 image: assets/images/blogs.png
 nav-menu: true
 ---
