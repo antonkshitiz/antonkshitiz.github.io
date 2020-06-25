@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi! I am Kshitiz'
 description: null
-image: null
+image: thebigshort.jpg
 author: null
 show_tile: false
 ---
