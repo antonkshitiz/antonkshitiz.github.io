@@ -15,7 +15,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://medium.com/@kshitizkhandelwal1999/investor-psychology-and-trading-bias-1dc2d3e4e51b" class="image">
-			<img src="{% link assets/images/backtest1.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/psy.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,7 +31,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://medium.com/mudrex/the-holy-grail-trading-strategy-1668bacf99a2" class="image">
-			<img src="{% link assets/images/backtest1.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/holygrail.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
