@@ -7,6 +7,14 @@ nav-menu: true
 ---
 <!-- Main -->
 <div id="main" class="alt">
+  
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1></h1>
+		</header>
+
 
 <!-- Content -->
 <h2 id="content"></h2>
@@ -19,4 +27,6 @@ nav-menu: true
 <p>IIT Kharagpur has provided me with an exposure to numerous different challenges that have helped me grow as an individual and a team player. I’ve been actively involved in various curricular and co-curricular activities. Through various business model and case study competitions, I’ve developed a structured problem solving and analytical thinking ability. I’ve had the privilege of working with a highly qualified Gold-winning team during the 8th Inter IIT Tech Meet held at IIT Roorkee. We conceptualized and developed from scratch, our brainchild eSaathi, which is an assistive UI platform for audio-visual handholding assistance to all your technological needs. Ever since then, we've collectively won more than 10 business competitions like the Empresario Social Business Model Competition held at EcoSpace Business Park, Kolkata during the Global Entrepreneurship Summit, IIT Kharagpur.</p>
 
 <p>Apart from being a workaholic, I love to watch TV Shows and read non-fiction novels in my free time. My taste in shows and books is quite apparent from the theme of this website and some other interesting things I've posted in the "Insights" section. My earphones are plugged into my ears 24x7 with mostly metal or EDM playing in the background. I'm quite active on social media and my Instagram and Facebook are flooded with shit-posts and memes. One of my biggest aims in life is to get myself exposed to as many personal and professional experiences as possible. </p>
+</div>
+</section>
 </div>
