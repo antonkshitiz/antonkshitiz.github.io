@@ -14,6 +14,102 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://medium.com/@kshitizkhandelwal1999/investor-psychology-and-trading-bias-1dc2d3e4e51b" class="image">
+			<img src="{% link assets/images/backtest1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Investor Psychology and Trading Bias</h3>
+				</header>
+				<p>When computer science was introduced to automate decision making, many hoped computers would reduce prejudice and discrimination. Unfortunately, that’s not the case, as machines are made and trained by humans, and the data that those machines use, is input by humans. Hence it is empirical for programs or in our case talking about algorithmic trading to amplify biases and errors.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@kshitizkhandelwal1999/investor-psychology-and-trading-bias-1dc2d3e4e51b" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://medium.com/mudrex/the-holy-grail-trading-strategy-1668bacf99a2" class="image">
+			<img src="{% link assets/images/backtest1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Holy Grail Trading Strategy</h3>
+				</header>
+				<p>Holy Grail is the ultimate unattainable object. Everybody wants it, but nobody ever seems to be able to get it. Because the search for it is by no means different in the world of trading, traders and investors have always dreamed of the magical strategy or the magical indicator or the magical algorithm enabling them to beat the market and reap the sweet fruits of huge endless profits.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/the-holy-grail-trading-strategy-1668bacf99a2" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://medium.com/mudrex/backtest-masterclass-part-1-e66929d99eed" class="image">
+			<img src="{% link assets/images/backtest1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Backtest MasterClass</h3>
+				</header>
+				<p>If you knew your trading strategy would give correct signals only 50% of the time, would you commit your scarce savings to trade with it? Now, what if it worked 75% of the time? Would you still be hesitant? Backtesting gives you the confidence to know that your trading strategy will work. Backtesting is simply the intentional testing procedure to verify that your trading strategy works using historical (back) market data and market conditions.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/backtest-masterclass-part-1-e66929d99eed" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://medium.com/mudrex/volume-masterclass-part-1-637c44713400" class="image">
+			<img src="{% link assets/images/volume1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Volume Indicators MasterClass</h3>
+				</header>
+				<p>Volume is one piece of information that is often neglected by many market players, especially beginners. However, learning to interpret volume brings many advantages and could be of tremendous help when it comes to analyzing the markets. The usage of volume indicators has long been restricted to just the Forex Markets. In this MasterClass on Volume Indicators, we’ll be talking about an in-depth study of using the most popular volume indicators for trading cryptocurrencies on Mudrex.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/volume-masterclass-part-1-637c44713400" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://medium.com/mudrex/macd-masterclass-part-1-678f65343552" class="image">
+			<img src="{% link assets/images/macd1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Moving Average Convergence Divergence MasterClass</h3>
+				</header>
+				<p>Moving Average Convergence Divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a stock’s price. MACD helps investors understand whether the bullish or bearish movement in the price is strengthening or weakening. Created by Gerald Appel, it is designed to reveal changes in the strength, direction, momentum, and duration of a trend in a stock’s price.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/macd-masterclass-part-1-678f65343552" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://medium.com/mudrex/rsi-masterclass-part-1-cb38e6b65f1a" class="image">
+			<img src="{% link assets/images/rsi1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Relative Strength Index MasterClass</h3>
+				</header>
+				<p>The RSI was created by Welles Wilder and many trading strategies have been designed around this indicator. It is intended to chart the current and historical strength or weakness of a stock or market based on the closing prices of a recent trading period. From trading oversold and overbought levels, to trend determination via the 50 level, the RSI momentum indicator makes up the backbone of many different types of strategies.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/rsi-masterclass-part-1-cb38e6b65f1a" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://medium.com/mudrex/adx-trading-strategy-22cc1b53f93b" class="image">
 			<img src="{% link assets/images/adx.png %}" alt="" data-position="center center" />
 		</a>
