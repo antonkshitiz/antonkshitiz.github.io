@@ -17,31 +17,15 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-</div>
+<p>Hi I'm Kshitiz Khandelwal, a third year undergraduate student from Indian Institute of Technology, Kharagpur. I'm pursuing a dual degree major in Electronics and Electrical Communication Engineering with a minor in Computer Science and Engineering and a micro-specialization in Entrepreneurship and Innovation. Coming from a tech-school, to pursue my interest in using computational data analytics for solving quantitative finance and business problems, I’ve participated in multiple business competitions and have done internships in the field of credit score modelling and algorithmic trading. 
 
+I started off my journey at IIT Kharagpur by exploring the fields of robotics and embedded systems by being a part of Technology Robotix Society and Kharagpur RoboSoccer Students' Group. In my second year of study, I pivoted completely to pursue the fields of Quantitative Finance and Business Strategy full-time. I was also a part of Business Club during my first year. I have a decent experience in the aforementioned fields through various courses, campus projects and internships. My superficial interest in finance, was sparked by  Adam McKay's movie, The Big Short which is based on the subprime mortgage financial crisis of 2007-08. I’m also an active contributor to IIT Kharagpur’s Finance Reading Group.
+
+During my second year summers, I interned at a couple of great fintech startups. I was a part of the Data Science Team at FinBox, Gurgaon for over four months. My project was based on credit score modelling using Natural Language Processing and Machine Learning. I also interned with the Growth Team of Mudrex, Bangalore which is a GUI based algorithmic trading platform. My project was based on developing technical analysis based trading strategies in the cryptocurrency markets for their clients. Both my internships gave me great exposure to the fields I was looking forward towards pursuing in the long run. Currently as the Head of a techno-management society, Technology Robotix Society, I’ve had the opportunity to be the Project Head and Organiser of IIT Kharagpur’s first Winter School for AI and Robotics wherein I volunteered to mentor over hundred AI enthusiasts in a fifteen-day long workshop on Machine Learning.    
+
+IIT Kharagpur has provided me with an exposure to numerous different challenges that have helped me grow as an individual and a team player. I’ve been actively involved in various curricular and co-curricular activities. Through various business model and case study competitions, I’ve developed a structured problem solving and analytical thinking ability. I’ve had the privilege of working with a highly qualified Gold-winning team during the 8th Inter IIT Tech Meet held at IIT Roorkee. We conceptualized and developed from scratch, our brainchild eSaathi, which is an assistive UI platform for audio-visual handholding assistance to all your technological needs. Ever since then, we've collectively won more than 10 business competitions like the Empresario Social Business Model Competition held at EcoSpace Business Park, Kolkata during the Global Entrepreneurship Summit, IIT Kharagpur.
+
+Apart from being a workaholic, I love to watch TV Shows and read non-fiction novels in my free time. My taste in shows and books is quite apparent from the theme of this website and some other interesting things I've posted in the "Insights" section. My earphones are plugged into my ears 24x7 with mostly metal or EDM playing in the background. I'm quite active on social media and my Instagram and Facebook are flooded with shit-posts and memes. One of my biggest aims in life is to get myself exposed to as many personal and professional experiences as possible. </p>
 </div>
 </section>
 
