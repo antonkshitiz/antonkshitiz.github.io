@@ -13,6 +13,41 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+
+	<section>
+		<a href="https://medium.com/mudrex/modern-portfolio-theory-for-cryptocurrency-b83172452656" class="image">
+			<img src="{% link assets/images/mpt.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Modern Portfolio Theory for Cryptocurrency</h3>
+				</header>
+				<p>Just from checking out the digital asset prices on a cryptocurrency exchange, one can see that they are highly correlated with one another.  If Bitcoin is in the red for the day, nearly every cryptocurrency on the homepage will be in the red, if Bitcoin is in the green, – so would be the others. In particular, the Modern Portfolio Theory advocates diversification of securities and asset classes or the benefits of not putting all your eggs in one basket.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/modern-portfolio-theory-for-cryptocurrency-b83172452656" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+		<a href="https://medium.com/mudrex/bitcoin-derivatives-futures-and-options-39d80a3a8934" class="image">
+			<img src="{% link assets/images/derivatives.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Bitcoin Derivatives</h3>
+				</header>
+				<p>A derivative is a financial contract between two or more parties based on the future price of an underlying asset. Financial derivatives are discussed a lot when it comes to the crypto industry, especially concerning futures contracts for Bitcoin or altcoins. High-profile American investor Warren Buffet once called derivatives “financial weapons of mass destruction” sharing a commonly held view that they were to blame for the 2007-2008 global financial crisis.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/mudrex/bitcoin-derivatives-futures-and-options-39d80a3a8934" class="button">Medium Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<section>
 		<a href="https://medium.com/@kshitizkhandelwal1999/investor-psychology-and-trading-bias-1dc2d3e4e51b" class="image">
 			<img src="{% link assets/images/psy.png %}" alt="" data-position="center center" />
