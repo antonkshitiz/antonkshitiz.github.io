@@ -13,7 +13,6 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-
 	<section>
 		<a href="https://medium.com/mudrex/modern-portfolio-theory-for-cryptocurrency-b83172452656" class="image">
 			<img src="{% link assets/images/mpt.png %}" alt="" data-position="center center" />
